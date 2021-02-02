@@ -13,7 +13,7 @@
 
 html {
   font-size: 10px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Georgia", sans-serif;
   color: lightgray;
 }
 
@@ -264,15 +264,13 @@ li {
 
 .about-description {
   font-size: 2rem;
-  /* font-family: fantasy,sans-serif; */
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Comic Sans MS", Courier, monospace;
   color: burlywood;
 }
 
 .about-description-list {
   font-size: 1.5rem;
-  /* font-family: fantasy, cursive;*/
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Comic Sans MS", Courier, monospace;
   color: burlywood;
 }
 
